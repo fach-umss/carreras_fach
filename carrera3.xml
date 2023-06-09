@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
+
 <channel>
-<title> • Arquitectura • Diseño Gráfico y Comunicación Visual • Turismo • Diseño de Interios y del Mobiliario • Técnico Universitario Superior en Construcciones</title> 
-<link>
-</link> 
-<description>
-</description> 
-<language>es-ES</language>
-</description> 
-</item>
+  <title>w3ii Home Page</title>
+  <link>http://www.w3ii.com</link>
+  <description>Free web building tutorials</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>http://www.w3ii.com/xml/xml_rss.html</link>
+    <description>New RSS tutorial on w3ii</description>
+  </item>
+  <item>
+    <title>XML Tutorial</title>
+    <link>http://www.w3ii.com/xml</link>
+    <description>New XML tutorial on w3ii</description>
+  </item>
 </channel>
+
 </rss>
